@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Luiz Negrinho
 
 - 🔭 I’m currently working on study hard and find a job in technologies area :) 
 - 🌱 I’m currently learning python, databases, SQL, JavaScript, HTML/CSS.
