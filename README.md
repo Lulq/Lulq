@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with everything im leaning.
 - 💬 Ask me about Python and Horses!
 - 📫 How to reach me: @marchador.estrela.negra (instagram), luizavm@gmail.com.
-- ⚡ Fun fact: Im a Data Scientist/Dev mind apprisioned in a Dentist body.
+- ⚡ Fun fact: a Data Scientist/Dev mind apprisioned in a Dentist body.
 
