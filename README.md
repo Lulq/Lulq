@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on everything i can.
 - 🤔 I’m looking for help with everything im leaning.
 - 💬 Ask me about Python and Horses!
-- 📫 How to reach me: @marchador.estrela.negra (instagram), luizavm@gmail.com.
-- ⚡ Fun fact: a Data Scientist/Dev mind apprisioned in a Dentist body.
+- 📫 How to reach me: @luiz.antonio.negrinho (instagram), luizavm@gmail.com.
+- ⚡ Fun fact: semi-almost ex-Dentist.
 
