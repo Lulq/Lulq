@@ -7,5 +7,5 @@
 - 🤔 Looking for help with everything im leaning.
 - 💬 Ask me about Python and Horses!
 - 📫 How to reach me: @luiz.antonio.negrinho (instagram), luizavm@gmail.com.
-- ⚡ Fun fact: semi-almost ex-Dentist.
+- ⚡ Fun fact: ex-Dentist.
 
